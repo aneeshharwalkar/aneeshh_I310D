@@ -1,5 +1,4 @@
-# this is supposed to calculate the area of a circle
-
+# this file is going to calculate the area of a circle
 def compute_area_of_circle(radius):
 	pi = 3.14
 	area = pi * radius * radius
